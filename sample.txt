@@ -1,4 +1,8 @@
 hello world
 good afternoon
 
+<<<<<<< HEAD
 adding new lines
+=======
+new lines added
+>>>>>>> loginfeature
